@@ -25,3 +25,13 @@
 
 > http://localhost:8080/mrvargas/index.html
 > npx @11ty/eleventy --serve
+
+### I share some Ubuntu terminal commands that I have learned:
+
+| Command | Description                                                               |
+| :-----: | ------------------------------------------------------------------------- |
+|  sudo   | It is used before a command is executed as **root** or **administrator**. |
+|   ls    | Show the current directory.                                               |
+|  mkdir  | Create a directory.                                                       |
+|   rm    | Remove file.                                                              |
+|   mv    | Move file.                                                                |
